@@ -9,3 +9,9 @@
 - 💬 Ask me about ... **everything**
 - ⚡ Fun fact: ... **I'm really curious**
 <!-- - 📫 How to reach me: ... - 😄 Pronouns: ... -->
+
+---
+
+### Stats
+
+<img alt="MisterAzix's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=MisterAzix&hide=stars&show_icons=true&hide_border=true&theme=vue-dark"/>
