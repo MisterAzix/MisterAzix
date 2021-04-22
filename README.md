@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MisterAzix/MisterAzix/main/banner_name.svg" alt="Maxence MisterAzix" />
+</h1>
+
 ### Hi there, I'm Maxence aka MisterAzix 👋
 
 <br>
