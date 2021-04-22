@@ -3,6 +3,7 @@
 </h1>
 
 ### Hi there, I'm Maxence aka MisterAzix 👋
+![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS&color=41b883)
 
 <br>
 
@@ -17,7 +18,3 @@
 ### Stats
 
 <img alt="MisterAzix's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=MisterAzix&hide=stars&show_icons=true&hide_border=true&theme=vue-dark"/>
-
-### Views
-
-![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS&color=41b883)
