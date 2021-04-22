@@ -20,4 +20,4 @@
 
 ### Views
 
-![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS&color=41b883)
