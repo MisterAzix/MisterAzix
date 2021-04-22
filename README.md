@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/MisterAzix/MisterAzix/main/banner_name.svg" alt="Maxence MisterAzix" />
 </h1>
 
-### Hi there, I'm Maxence aka MisterAzix 👋 ![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS&color=41b883)
+### Hi there, I'm Maxence aka MisterAzix 👋 
+![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS&color=41b883)
 
 <br>
 
