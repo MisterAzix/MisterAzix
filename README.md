@@ -7,13 +7,14 @@
 
 <br>
 
-- 🔭 I’m currently working on ... **my studies**
-- 🌱 I’m currently learning ... **web development / communication / audiovisual**
+- 🔭 I’m currently working on ... **[my website](https://www.maxencebreuilles.fr/)**
+- 🌱 I’m currently learning ... **React, Express, Rails**
 - 👯 I’m looking to collaborate on ... **web project**
 - 🤔 I’m looking for help with ... **best practices in web development**
 - 💬 Ask me about ... **everything**
-- ⚡ Fun fact: ... **I'm really curious**
-<!-- - 📫 How to reach me: ... - 😄 Pronouns: ... -->
+- ⚡ Fun fact: ... **I make great rum pancakes**
+- 📫 How to reach me: ... **[maxence.brlls@gmail.com](mailto:maxence.brlls@gmail.com?subject=[GitHub]%20)**
+<!-- - 😄 Pronouns: ... -->
 
 ### Stats
 
