@@ -7,8 +7,8 @@
 
 <br>
 
-- 🔭 I’m currently working on ... **Socket.io application**
-- 🌱 I’m currently learning ... **React, Express, Rails**
+- 🔭 I’m currently working on ... **TicTacToe 2.0**
+- 🌱 I’m currently learning ... **React, NextJS, Express, NodeJS**
 - 👯 I’m looking to collaborate on ... **web project**
 - 🤔 I’m looking for help with ... **best practices in web development**
 - 💬 Ask me about ... **everything**
