@@ -13,6 +13,8 @@
 - ⚡ Fun fact, **I make great rum pancakes**
 - 📫 How to reach me: **[@MaxenceBr_](https://twitter.com/MaxenceBr_)**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21e2k7x5jaw3tgcghf5ij76ia&cover_image=true&theme=natemoo-re&bar_color=41b883&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21e2k7x5jaw3tgcghf5ij76ia&redirect=true)
+
 ### Find me on the web 🌐
 
 <p align="left">
