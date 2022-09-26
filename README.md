@@ -7,13 +7,11 @@
 
 <br>
 
-- 🔭 I’m currently working on ... **TicTacToe 2.0**
-- 🌱 I’m currently learning ... **React, NextJS, Express, NodeJS**
-- 👯 I’m looking to collaborate on ... **web project**
-- 🤔 I’m looking for help with ... **best practices in web development**
-- 💬 Ask me about ... **everything**
-- ⚡ Fun fact: ... **I make great rum pancakes**
-- 📫 How to reach me: ... **[contact@maxencebreuilles.fr](mailto:contact@maxencebreuilles.fr?subject=[GitHub]%20)**
+- 🔭 I’m currently working at [@LeGratin.io](https://github.com/LeGratin) as fullstack developer
+- 👨‍🎓 [MMI Bordeaux](https://www.mmibordeaux.com/) alumni & [HETIC](https://www.hetic.net/) student
+- 🌱 I’m currently learning **Typescript, React, NextJS, Express, NodeJS**
+- ⚡ Fun fact, **I make great rum pancakes**
+- 📫 How to reach me: **[@MaxenceBr_](https://twitter.com/MaxenceBr_)**
 
 ### Find me on the web 🌐
 
