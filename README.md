@@ -11,7 +11,7 @@
 - 👨‍🎓 [MMI Bordeaux](https://www.mmibordeaux.com/) alumni & [HETIC](https://www.hetic.net/) student
 - 🌱 I’m currently learning **Java, SpringBoot, Kafka** and more!
 - ⚡ Fun fact, **I make great rum pancakes**
-- 📫 How to reach me: **[@MisterAzix](https://twitter.com/MisterAzix_)**
+- 📫 How to reach me: **[@MisterAzix](https://twitter.com/MisterAzix)**
 
 ### Find me on the web 🌐
 
