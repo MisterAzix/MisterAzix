@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔭 I’m currently working at [@Amundi](https://www.amundi.fr/) as a Java consultant boosted by @eXalt-IT 🎉
+- 🔭 I’m currently working at [@Amundi](https://www.amundi.fr/) as a Java consultant boosted by [@eXalt-IT](https://www.exalt-company.com/) 🎉
 - 👨‍🎓 [MMI Bordeaux](https://www.mmibordeaux.com/) & [HETIC](https://www.hetic.net/) alumni
 - 🌱 I’m currently learning **Java, SpringBoot, Kafka** and more!
 - ⚡ Fun fact, **I make great rum pancakes**
