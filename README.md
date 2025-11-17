@@ -7,8 +7,8 @@
 
 <br>
 
-- 🔭 I’m currently working at [@BforBank](https://www.bforbank.com/) as Java developer
-- 👨‍🎓 [MMI Bordeaux](https://www.mmibordeaux.com/) alumni & [HETIC](https://www.hetic.net/) student
+- 🔭 I’m currently working at [@Amundi](https://www.amundi.fr/) as a Java consultant boosted by @eXalt-IT 🎉
+- 👨‍🎓 [MMI Bordeaux](https://www.mmibordeaux.com/) & [HETIC](https://www.hetic.net/) alumni
 - 🌱 I’m currently learning **Java, SpringBoot, Kafka** and more!
 - ⚡ Fun fact, **I make great rum pancakes**
 - 📫 How to reach me: **[@MisterAzix](https://twitter.com/MisterAzix)**
